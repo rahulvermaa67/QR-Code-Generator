@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QR Code Generator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_qr_code_will_be_shown_here">Your QR Code will be shown here</string>
+    <string name="share_qr_code">Share QR Code</string>
+    <string name="download_qr_code">Download QR Code</string>
+    <string name="hint_text">Enter Text / Link</string>
+    <string name="Btn_text">Generate QR Code</string>
+</resources>
